@@ -1,0 +1,5 @@
+TAVILY_API_KEY="YOUR_KEY"
+
+PINECONE_API_KEY="YOUR_KEY"
+
+INDEX_NAME="market-intelligence"
