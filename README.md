@@ -138,3 +138,15 @@ Output:
 ## Summary
 
 This project is essentially a  research assistant for stock analysis. It combines financial data, current news, semantic search, and AI reasoning to provide a decision-support report.
+
+
+
+
+
+NOTE 
+create the config  or .env file
+and then add
+tavily_api_key=
+pinecone api_key="market-intelligence"
+pinecone index=
+openai_api_key=
