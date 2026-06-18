@@ -1,6 +1,7 @@
-TAVILY_API_KEY="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"
+TAVILY_API_KEY="paste api key here"
 
-PINECONE_API_KEY="pcsk_2jFGCo_9ZLbKJ8HgE6ZP5YXu6tt6AitCk8PX3gK6u9o6KJFmaohry9m2NPnLsEbxG3HYLo"
+PINECONE_API_KEY="paste api key here"
 
 INDEX_NAME="market-intelligence"
 
+OPENAI_API-"enter your api"
