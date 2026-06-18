@@ -10,6 +10,9 @@ The goal is to help a user understand a company’s current position by combinin
 
 ## What this project does
 
+
+
+
 When you run the program, it:
 1. asks for a stock ticker and a question/query
 2. fetches key financial metrics for that company
